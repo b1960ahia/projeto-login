@@ -31,7 +31,7 @@ section#login {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: bisque;
-    width: 280px;
+    width: 260px;
     height: 510px;
     border-radius: 20px;
     overflow: hidden;
@@ -80,7 +80,7 @@ div.campo > label {
 
 div.campo > span {
    /*background-color: black;*/
-   color: aliceblue;
+   color: rgb(48, 97, 139);
    font-size: 2em;
    width: 55px;
    padding: 4px;
@@ -88,7 +88,7 @@ div.campo > span {
 }
 
 div.campo > input {
-   background-color: rgb(151, 242, 213);
+   background-color: aquamarine;
    font-size: 1em;
    width: calc(100% - 60px);
    height: 100%;
